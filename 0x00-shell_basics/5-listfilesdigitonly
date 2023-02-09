@@ -1,2 +1,2 @@
 #!/ban/bash
-ls -ln
+ls -lan
